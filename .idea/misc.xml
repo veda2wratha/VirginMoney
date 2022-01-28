@@ -5,7 +5,9 @@
       <map>
         <entry key="app/src/main/res/drawable-v24/ic_baseline_meeting_room_24.xml" value="0.1765" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_people_details.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_people.xml" value="0.1125" />
+        <entry key="app/src/main/res/layout/fragment_people_details.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_room.xml" value="0.1125" />
         <entry key="app/src/main/res/layout/layout_people_list_item.xml" value="0.1" />
         <entry key="app/src/main/res/layout/layout_room_list_item.xml" value="0.25" />

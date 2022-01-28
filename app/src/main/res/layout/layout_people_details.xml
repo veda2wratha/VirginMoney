@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="32dp">
+
+    <ImageView
+        android:id="@+id/iv_avatar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/two_fifty_dp" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="@dimen/eighteen_sp"
+        android:layout_marginTop="@dimen/eight_dp"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/job"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/five_dp"
+
+        android:layout_marginBottom="@dimen/five_dp"
+        android:layout_marginTop="@dimen/eight_dp"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/five_dp"
+        android:layout_marginTop="@dimen/eight_dp"
+        android:layout_marginBottom="@dimen/five_dp"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/favouriteColor"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="@dimen/eight_dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/five_dp"
+        android:layout_marginBottom="@dimen/five_dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/btn_close"
+        android:layout_width="300dp"
+        android:layout_gravity="center"
+        android:layout_height="50dp"
+        android:layout_marginTop="@dimen/eight_dp"
+        android:text="Close"/>
+
+</LinearLayout>
