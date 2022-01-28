@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Virgin Money</string>
+    <string name="title_people">People</string>
+    <string name="title_room">Room</string>
+    <string name="occupied">Occupied</string>
+    <string name="not_occupied">Free to use</string>
 </resources>
